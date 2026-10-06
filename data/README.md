@@ -12,7 +12,7 @@ place them in the repository root (or the directory from which you run
 - `SampleSubmission.csv` — submission template
 
 Challenge page:
-https://zindi.africa/competitions/geoai-challenge-aquaculture-ponds-identification
+https://zindi.world/competitions/geoai-aquaculture-pond-identification-challenge/data
 
 ## Dataset at a glance
 - Each row = one 10 m × 10 m ground patch.
