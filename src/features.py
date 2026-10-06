@@ -34,7 +34,7 @@ import pandas as pd
 # handled by LightGBM's native missing-value support). The warning is noise.
 warnings.filterwarnings("ignore", message="All-NaN slice encountered")
 warnings.filterwarnings("ignore", message="Mean of empty slice")
-
+warnings.filterwarnings("ignore", message="Degrees of freedom <= 0 for slice")
 # Sentinel-2 optical + Sentinel-1 SAR bands, each sampled monthly (_01 .. _12).
 _EPS = 1e-6
 
